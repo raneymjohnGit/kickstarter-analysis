@@ -71,14 +71,17 @@ Deliverable 2: Outcomes Based on Goal Chart
     7. Create a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.
 
 ### Analysis of Outcomes Based on Launch Date
+![image_name](https://github.com/raneymjohnGit/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis of Outcomes Based on Goals
+![image_name](https://github.com/raneymjohnGit/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+
 
 ### Challenges and Difficulties Encountered
 
 Deliverable 2: Outcomes Based on Goal Chart
-    1. When we format the "Sum of Percenatge Sucessful", "Sum of Percenatge Failed", "Sum of Percenatge Canceled" to "Percentage",  the Y-axis on the chart becomes multiplied by 100
-
+    1. When we format the "Sum of Percenatge Sucessful", "Sum of Percenatge Failed", "Sum of Percenatge Canceled" to "Percentage",  the Y-axis on the chart becomes multiplied by 100.
     So inorder to avoid that, I kept the format of the "Sum of Percenatge Sucessful", "Sum of Percenatge Failed", "Sum of Percenatge Canceled" to "Number" and created the chart then changed the format of the fields in the Pivot table
 
 ## Results
