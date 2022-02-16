@@ -84,6 +84,13 @@ Deliverable 2: Outcomes Based on Goal Chart
     1. When we format the "Sum of Percenatge Sucessful", "Sum of Percenatge Failed", "Sum of Percenatge Canceled" to "Percentage",  the Y-axis on the chart becomes multiplied by 100.
     So inorder to avoid that, I kept the format of the "Sum of Percenatge Sucessful", "Sum of Percenatge Failed", "Sum of Percenatge Canceled" to "Number" and created the chart then changed the format of the fields in the Pivot table
 
+Reference documents:
+Module 1 from our Boot Camp
+COUNTIFS:
+https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842
+
+
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
